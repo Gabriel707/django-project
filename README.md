@@ -4,4 +4,4 @@ Functionalities:
 - In progress..
 
 Author: 
-- Gabriel Santana de Araújo
+- Gabriel Araújo
