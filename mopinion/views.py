@@ -9,7 +9,7 @@ def home(request):
 
 
 def contact(request):
-    return render(request, 'delete-me/temp.html')
+    return render(request, 'mopinion/contact.html')
 
 
 def about(request):
