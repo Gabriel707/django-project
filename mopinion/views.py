@@ -9,7 +9,7 @@ def home(request):
 
 
 def contact(request):
-    return HttpResponse('contact')
+    return HttpResponse('Reach me out on linkedin: https://www.linkedin.com/in/gabrieldesantana11/')
 
 
 def about(request):
